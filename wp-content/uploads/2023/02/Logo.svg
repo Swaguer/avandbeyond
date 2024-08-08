@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 168.12 47.39">
+  <defs>
+    <style>.cls-1{font-size:29.33px;font-family:MyriadPro-Regular, Myriad Pro;letter-spacing:0em;}.cls-1,.cls-4{fill:#fff;}.cls-2{letter-spacing:0em;}.cls-3{letter-spacing:-0.01em;}.cls-4,.cls-5{fill-rule:evenodd;}.cls-5{fill:url(#Degradado_sin_nombre_128);}.cls-6{font-size:7.66px;fill:#e62d2c;font-family:News706BT-BoldC, News706BT BoldC;font-weight:700;}</style>
+    <linearGradient id="Degradado_sin_nombre_128" y1="15.43" x2="83.92" y2="15.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#6b1416"></stop>
+      <stop offset="0.1" stop-color="#711517"></stop>
+      <stop offset="0.2" stop-color="#81191a"></stop>
+      <stop offset="0.31" stop-color="#9d1e1f"></stop>
+      <stop offset="0.43" stop-color="#c32626"></stop>
+      <stop offset="0.53" stop-color="#e62d2c"></stop>
+      <stop offset="0.61" stop-color="#e73133"></stop>
+      <stop offset="0.72" stop-color="#e83d45"></stop>
+      <stop offset="0.77" stop-color="#e9444f"></stop>
+      <stop offset="0.85" stop-color="#e94551"></stop>
+      <stop offset="0.88" stop-color="#e94958"></stop>
+      <stop offset="0.9" stop-color="#ea4f63"></stop>
+      <stop offset="0.92" stop-color="#eb5874"></stop>
+      <stop offset="0.93" stop-color="#e9637d"></stop>
+      <stop offset="0.95" stop-color="#e28094"></stop>
+      <stop offset="0.98" stop-color="#d8afb9"></stop>
+      <stop offset="1" stop-color="#d1d2d4"></stop>
+      <stop offset="1" stop-color="#f293a1"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Capa_2" data-name="Capa 2">
+    <g id="Capa_1-2" data-name="Capa 1">
+      <text class="cls-1" transform="translate(65.84 40.06) scale(1.1 1)">B<tspan class="cls-2" x="16.02" y="0">e</tspan><tspan class="cls-3" x="30.71" y="0">y</tspan><tspan class="cls-2" x="44.23" y="0">ond</tspan></text>
+      <path class="cls-4" d="M38.25,20.56,45.6,40.34H39.16L34.56,28,22.11,26.79C28.06,23.74,32.44,22.55,38.25,20.56Z"></path>
+      <path class="cls-4" d="M20.47,28,16.63,40.34h-8L12,31.9C14.88,30.22,17.49,29.42,20.47,28Z"></path>
+      <path class="cls-4" d="M57.77,40.34h-6L43.58,18.5c1.82-.57,3.22-1.25,5.35-1.75l6,15.5,7.34-19.16c2.74-.51,4.29-.75,6.71-1.11Z"></path>
+      <path class="cls-5" d="M28.87,12.46,27.32,8.28l-2.07,5.48c1.19-.46,2.4-.89,3.62-1.3Zm-6.39,8.66-.12,0-.12,0h0l-.47.15-.12,0-.12,0-.12,0h0l-.46.16-.12,0-.11,0-.12,0-.12,0-.36.12L20,22l-.12,0-.12.05-.12,0-.35.12-.12,0L19,22.3l-.12,0-.12,0-.35.13-.12,0-.12,0-.11.05h0l-.58.21-.12,0-.12.05-.11,0-.35.13-.12.05-.12,0-.11.05h0l-.56.22-.12,0-.12,0-.11,0-.46.18-.12,0A121.29,121.29,0,0,0,0,30.87a65.57,65.57,0,0,1,17.44-13.5L24.24,0h6.2l4.22,10.8c1.73-.42,3.48-.79,5.26-1.09L36.16,0h6.75L46.2,8.91q3.34-.29,6.77-.29a78.22,78.22,0,0,1,10.69.73L67.12,0H73.8l-4,10.45a73.84,73.84,0,0,1,14.13,4.66,132.2,132.2,0,0,0-15.53-1H61.88q-3.6.13-7.29.46a146,146,0,0,0-17.43,2.58l-.09,0-.48.1-.09,0-.1,0-.09,0-.1,0-.09,0-.47.1h0l-.09,0-.1,0-.09,0-.09,0-.1,0-.38.08-.09,0-.09,0-.1,0-.66.15-.09,0-.09,0-.1,0-.09,0-.47.11-.09,0-.1,0-.09,0-.09,0-.47.12-.09,0-.1,0-.09,0-.09,0-.09,0-.56.14C28.2,19.36,25.3,20.2,22.48,21.12Z"></path>
+      <text class="cls-6" transform="matrix(0.96, -0.29, 0.29, 0.96, 38.84, 23.22)">&amp;</text>
+    </g>
+  </g>
+</svg>
